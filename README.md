@@ -1,6 +1,6 @@
 # Jilu-dialect-dataset
 
-This repository contains the official dataset for the paper: **"Mamba-based Layer-wise Progressive Fusion Network with Depthwise Enhancement for Low-resource Speech Recognition"(https://www.google.com/search?q=https://doi.org/10.1109/IJCNN64981.2025.11228602)**, published in *IJCNN 2025*.
+This repository contains the official dataset for the paper: [**Mamba-based Layer-wise Progressive Fusion Network with Depthwise Enhancement for Low-resource Speech Recognition**](https://doi.org/10.1109/IJCNN64981.2025.11228602), published in *IJCNN 2025*.
 
 ## 📢 Important Update
 
@@ -12,7 +12,7 @@ Previously, this dataset was distributed via email request. To provide better ac
 
 You can download the full dataset via the link below:
 
-👉 **[Download Dataset from Google Drive]([https://www.google.com/search?q=YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1Qu1jyxsp1es5m3wKDDtr-3xamalmJ315?usp=sharing))** 
+👉 **[Download Dataset from Google Drive]([https://drive.google.com/drive/folders/1Qu1jyxsp1es5m3wKDDtr-3xamalmJ315?usp=sharing])** 
 
 ---
 
