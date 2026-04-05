@@ -1,4 +1,4 @@
-# Jilu-dialect-dataset
+# JLM-Speech
 
 This repository contains the official dataset for the paper: [**Mamba-based Layer-wise Progressive Fusion Network with Depthwise Enhancement for Low-resource Speech Recognition**](https://doi.org/10.1109/IJCNN64981.2025.11228602), published in *IJCNN 2025*.
 
