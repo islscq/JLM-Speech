@@ -26,19 +26,4 @@ By downloading or using this dataset, you agree to the following conditions:
 
 ---
 
-## 📑 Citation
 
-If you find this dataset or our work helpful, please cite:
-
-```bibtex
-@INPROCEEDINGS{11228602,
-  author={Chen, Xuanda and Cheng, Dingxin and Hou, Fei and Jiang, Bin and Li, Xuchen and Wang, Wenyu and Qu, Meixia},
-  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
-  title={Mamba-based Layer-wise Progressive Fusion Network with Depthwise Enhancement for Low-resource Speech Recognition}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-8},
-  keywords={Adaptation models;Accuracy;Convolution;Neural networks;Speech recognition;Speech enhancement;Feature extraction;Data models;Data mining;speech recognition;low-resource;bidirectional mamba;hierarchical selective fusion;feature enhancement},
-  doi={10.1109/IJCNN64981.2025.11228602}}
-```
